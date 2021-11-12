@@ -1314,3 +1314,10 @@ num_list[len(num_list)//2]
 - [x] my_game = Game() self.my_game.roll_dice()
 - [ ] my_game = Game() my_game.roll_dice()
 - [ ] my_game = Game(self) my_game.roll_dice(self)
+
+#### Q98. What is the output of this code? (NumPy has been imported as np.)
+
+- [ ] ```{0,2} ```
+- [ ] ```{2}```
+- [ ] ```[0,2,0,0]```
+- [x] ```[2]```
